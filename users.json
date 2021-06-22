@@ -1,0 +1,24 @@
+[
+    {
+      "id":1,
+      "username": "aaaa",
+      "password": "1234235",
+      "name": "Mr. AAA",
+      "age": 16
+    },
+    {
+      "id":2,
+      "username": "bbbb",
+      "password": "asd3",
+      "name": "Mr. BBB",
+      "age": 30
+    },
+    {
+      "id":3,
+      "username": "aaaa",
+      "password": "987665g",
+      "name": "Mr. CCC",
+      "age": 60
+    }
+  ]
+  
